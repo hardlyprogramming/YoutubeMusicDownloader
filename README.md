@@ -1,5 +1,5 @@
 # YoutubeMusicDownloader
-Script for quickly downloading organizing music from YouTube
+Script for quickly downloading and organizing music from YouTube
 
 ## Useage
 ```shell
